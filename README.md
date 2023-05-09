@@ -1,4 +1,4 @@
-# EJERCICIO DE OPERADORES
+# EJERCICIOS DE OPERADORES
 ejercicios = int(input("entre al numero que desea ejecutar"))
 ("
 if ejercicios == 1:
@@ -99,7 +99,7 @@ if ejercicios == 14:
   promedio = (n1+n2+n3)/3
   print("el promedio es:", promedio)
 
-EJERICICIOS CONDICIONALES 
+#EJERICICIOS CONDICIONALES 
 ejercicios = int(input("ingrese el ejercicio que desea ejecutar"))
 
 if ejercicios == 1:
